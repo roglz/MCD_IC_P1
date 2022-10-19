@@ -1,0 +1,21 @@
+Archivos sobre poblacion, vivienda, pobreza y delitos en Sonora, Mexico.
+
+      Los datos de poblacion y vivienda corresponden al Censo de Poblacion y Vivienda (2010, 2015, 2020)
+    realizado por INEGI, y cuenta con informacion sobre porcentajes de viviendas de los municipios 
+    de Sonora, poblacion y algunas de sus caracteristicas demograficas, socioeconomicas y culturales.
+            
+      Los datos de delitos registrados corresponden al Censo Nacional de Imparticion de Justicia Estatal
+    (2011, 2012, 2013, 2014, 2015) realizado por INEGI, y cuenta con informacion estadistica y geografica
+    sobre los delitos registrados por el gobierno Estatal del Sonora, dividido por minicipios.
+            
+      Los datos de pobreza corresponden al Consejo Nacional de Evaluacion de la Politica de Desarrollo
+    Social (CONEVAL) y fueron accedidos a traves de DataMexico. Corresponden a censos de 2010, 2015 y 2020.
+            
+            
+Descargado el 2022-10-18 18:26:24
+Desde: https://www.inegi.org.mx/contenidos/masiva/indicadores/programas/ccpv/2020/cpv_26_xlsx.zip
+Nombre: ccpv_INEGI
+Desde: https://www.inegi.org.mx/contenidos/masiva/indicadores/temas/delitos/delitos_26_xlsx.zip
+Nombre: del_INEGI
+Desde: https://dev-api.datamexico.org/tesseract/data.jsonrecords?State=26&cube=coneval_poverty&drilldowns=Municipality%2CYear&measures=Poverty%2CExtreme+Poverty%2CModerate+Poverty%2CPopulation+No+Vulnerable%2CEducational+Backwardness%2CDeprivation+Quality+Housing+Spaces%2CDeprivation+Health+Services%2CDeprivation+Social+Security%2CDeprivation+Basic+Services+Housing%2CDeprivation+Food+Access%2CPopulation+with+at+least+1+Social+Lack%2CPopulation+with+at+least+3+Social+Lacks%2CIncome+below+Welfare+Line%2CIncome+below+Min+Welfare+Line&parents=false&sparse=false
+Nombre: po_API
